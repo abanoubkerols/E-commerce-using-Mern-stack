@@ -12,7 +12,7 @@
     "API",
     "NodeJS"
   ],
-  "author": "I-Novotek Academy",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
